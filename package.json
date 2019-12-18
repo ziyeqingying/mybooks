@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "manual",
   "version": "1.0.0",
   "description": "信息科学基础实验手册",
@@ -7,14 +7,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wangding/info-theory-lab-manual.git"
+    "url": "git+https://github.com/ziyeqingying/info-theory-lab-manual.git"
   },
-  "author": "wangding",
+  "author": "ziyeqingying",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wangding/info-theory-lab-manual/issues"
+    "url": "https://github.com/ziyeqingying/info-theory-lab-manual/issues"
   },
-  "homepage": "https://github.com/wangding/info-theory-lab-manual#readme",
+  "homepage": "https://github.com/ziyeqingying/info-theory-lab-manual#readme",
   "devDependencies": {
     "gitbook-cli": "^2.3.2",
     "grunt": "^1.0.1",
